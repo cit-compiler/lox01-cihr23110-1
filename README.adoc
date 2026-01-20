@@ -23,10 +23,13 @@
 :section-refsig:
 :chapter-refsig:
 
-= lox01
+= lox01-cihr23110
 
 [.lead]
 Java版Loxを作るための演習用リポジトリです。
+
+* 氏名: 渡辺彦志
+* 学籍番号: 23B71110
 
 == ディレクトリを確認する
 
